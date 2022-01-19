@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 const Slider = ({start}) => {
     return (
         <Carousel fade>
-
+{/* map is used to traversal in js */}
        {start.map((item,index)=>(
             <Carousel.Item>
             <img
@@ -19,4 +19,4 @@ const Slider = ({start}) => {
     )
 }
 
-export default Slider
+export default Slider;
