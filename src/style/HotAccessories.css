@@ -1,4 +1,4 @@
-/* .HotAccessories{
+.HotAccessories{
     display: flex;
     width: 90vw;
     margin: auto;
@@ -19,4 +19,4 @@
 .HotAccessories > div:last-child{
     display: flex;
     flex-wrap: wrap;
-  } */
+  }

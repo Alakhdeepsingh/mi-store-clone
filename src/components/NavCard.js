@@ -10,6 +10,6 @@ const NavCard = ({name,price,image,index}) => {
         <span>{price}</span>
     </div>
     )
-}
+} 
 
 export default NavCard

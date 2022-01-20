@@ -1,17 +1,17 @@
-// import React from 'react'
-// import "../style/HotItemCard.css"
+import React from 'react'
+import "../style/HotItemCard.css"
 
-// const HotItemCard = ({image,index,name,price}) => {
-//     return (
-//         <div className="HotItemCard">
-//             <img src={image} alt={`${index} product`} />
-//             <p>{name}</p>
-//             <span>{price}</span>
+const HotItemCard = ({image,index,name,price}) => {
+    return (
+        <div className="HotItemCard">
+            <img src={image} alt={`${index} product`} />
+            <p>{name}</p>
+            <span>{price}</span>
             
-//         </div>
-//     )
-// }
+        </div>
+    )
+}
 
-// export default HotItemCard;
+export default HotItemCard;
 
 

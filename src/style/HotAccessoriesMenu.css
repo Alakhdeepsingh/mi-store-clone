@@ -1,4 +1,4 @@
-/* .HotAccessoriesMenu{
+.HotAccessoriesMenu{
     display:flex;
     justify-content:center;
 }
@@ -13,4 +13,4 @@
     text-decoration: none;
     color:orangered;
     border-bottom: 1px solid orangered;
-} */
+}

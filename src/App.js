@@ -32,8 +32,8 @@ function App() {
        <Heading text="STAR PRODUCTS"/>
        <StarProduct starProduct={data.starProduct} />
        <Heading text="HOT ACCESSORIES" />
-       
-       {/* <HotAccessoriesMenu />
+{/*        
+       <HotAccessoriesMenu />
   
 
       <Route exact path="/music">
@@ -55,11 +55,8 @@ function App() {
 
         <Route exact path="/mobileAccessories"> 
         <HotAccessories mobileAccessories={data.hotAccessories.mobileAccessories} mobileAccessoriesCover={data.hotAccessoriesCover.mobileAccessories}  /> 
-       </Route> 
-     */}
-
-
-       
+       </Route>  */}
+    
 
        <Heading text="PRODUCT REVIEWS"/>
 
@@ -80,6 +77,15 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+
+
+
+
 // import logo from './logo.svg';
 // import './App.css';
 // import React from 'react'
