@@ -7,3 +7,4 @@ const Offer = ({src,link,index}) => {
 }
 
 export default Offer
+ 

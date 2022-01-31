@@ -1,12 +1,12 @@
 .nav{
-    z-index:1000;
-    background-color:white;
+    z-index: 1000;
+    background-color: white;
     padding: 1vmax;
     display: flex;
-    flex-direction:row;
-    justify-content:center;
-    align-items:center;
-    border-bottom: 1px solid rgba(43,43,43,0.137);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgba(43, 43, 43, 0.137);
 }
 .logo{
     background-color: orangered;
@@ -18,13 +18,13 @@
     right: 2vmax;
 }
 
-#logoImage{
+#LogoImage{
     transition:all 0.2s;
     
     transform: translateX(-58px);
 }
 
-#logoImage:hover{
+#LogoImage:hover{
   
     transform: translateX(0);
 }
@@ -58,9 +58,7 @@
     color:rgb(61, 61, 61);
     font-weight: 100;
     
-  }
- 
-  
+  } 
   .searchbox > svg{
     fill: rgb(61, 61, 61);
 }

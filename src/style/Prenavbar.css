@@ -18,7 +18,7 @@
     fill:rgb(180,180,180);
 }
 .preNav > div svg:hover{
-    color:white;
+    fill: rgb(255, 255, 255);
 }
 .preNav > div > a{
     color: rgb(180,180,180);
@@ -28,6 +28,7 @@
     margin: 1vmax;
     text-decoration: none;
 }
+
 .preNav>div>a:hover{
     color:white;
 }

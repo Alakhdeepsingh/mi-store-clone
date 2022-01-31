@@ -2,11 +2,9 @@ import React from 'react'
 import HotItemCard from "./HotItemCard.js"
 import "../style/HotAccessories.css"
 
-
 const HotAccessories = ({music,musicCover,smartDevice,smartDeviceCover,home,homeCover,lifeStyle,lifeStyleCover,mobileAccessories,mobileAccessoriesCover}) => {
     return (
         <div  className="HotAccessories">
-
               <div>
                <img src={musicCover || smartDeviceCover || homeCover || lifeStyleCover || mobileAccessoriesCover} alt="Cover" />
             </div>
