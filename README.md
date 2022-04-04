@@ -1,6 +1,6 @@
 # MI-Store-Clone
 
-Deployed Website Link : https://mi-store-clone-mi.web.app/
+Website Link : https://mi-store-clone-mi.web.app/
 
 
 # Getting Started with Create React App
